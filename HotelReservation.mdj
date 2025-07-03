@@ -747,6 +747,19 @@
 							"parentStyle": false,
 							"lineStyle": 1,
 							"points": "640:664;527:666"
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAGX0NgUa2KQ7bQ=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"parentStyle": false,
+							"left": 856,
+							"top": 136,
+							"width": 60,
+							"height": 15
 						}
 					]
 				},
